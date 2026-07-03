@@ -1,0 +1,86 @@
+.hero{
+    font-family: "Cormorant Garamond", serif;
+    font-size: 5rem;
+}
+.red{color:#6B6B64;}
+
+video.two{
+    
+  width: 540px;
+  height: 100vh;
+  object-fit: cover;
+
+}
+.rice{
+    font-family: "Cormorant Garamond", serif;
+    font-size: 3rem;
+}
+.three{
+    color:#6b6b64;
+    font-size: 19px;
+}
+@media (max-width: 768px) {
+ video.two {
+    width: 100%;
+   
+    object-fit: cover;
+  }
+  .hero{
+    font-size: 3rem;
+  }
+  .divine{
+    width: 100% !important ;
+  }
+  .rice{
+    font-size: 2rem;
+  }
+ 
+}
+.divine{
+    width: 50%;
+}
+.four{ font-family: "Cormorant Garamond", serif;}
+.five{
+    font-size: 11px;
+    font-family: "Cormorant Garamond", serif;
+}
+
+.six{
+    font-family: "Cormorant Garamond", serif;
+    font-size: 22px;
+}
+.seven{
+    height: 235px;
+}
+
+.navbar{
+    z-index: 999;
+}
+.eight{
+    background-color: #e8ede6;
+}
+
+.nine{
+    color:#6b6b64;
+    font-size: 0.8rem;
+}
+.twele{
+    background-color: #e8ede6;
+    font-size: 0.55rem;
+    color: #6b6b64;
+}
+.thirteen{
+    color: #9baf8a;
+    font-size: 0.9rem;
+    letter-spacing: 0.18em;
+}
+.reveal{
+    color: rgba(247, 245, 240, 0.6);
+}
+
+.gold{
+    background-color:#c9a96e;
+}
+footer{
+    background-color: #0a0a09;
+}
