@@ -44,7 +44,7 @@ function product() {
                         <div className="">
                             <SwiperSlide>
                                 <div class="card h-100" style={{ width: "18rem" }} >
-                                    <img src="public/Images/one.png" class="card-img-top seven" alt="..." />
+                                    <img src="Images/one.png" class="card-img-top seven" alt="..." />
                                     <div class="card-body">
                                         <h3 class="card-title four">Brightening
                                             Glow Serum</h3>
@@ -76,7 +76,7 @@ function product() {
                         <div className="">
                             <SwiperSlide>
                                 <div class="card h-100" style={{ width: "18rem" }} >
-                                    <img src="public/Images/two.png" class="card-img-top object-fit-cover seven" alt="..." />
+                                    <img src="Images/two.png" class="card-img-top object-fit-cover seven" alt="..." />
                                     <div class="card-body">
                                         <h3 class="card-title four">Pore Purifying
                                             Face Wash</h3>
@@ -110,7 +110,7 @@ function product() {
                         <div className="">
                             <SwiperSlide>
                                 <div class="card h-100" style={{ width: "18rem" }} >
-                                    <img src="public/Images/three.png" class="card-img-top object-fit-cover seven" alt="..." />
+                                    <img src="Images/three.png" class="card-img-top object-fit-cover seven" alt="..." />
                                     <div class="card-body">
                                         <h3 class="card-title four">Hydra-Barrier
                                             Moisturiser</h3>
@@ -143,7 +143,7 @@ function product() {
                         <div className="">
                             <SwiperSlide>
                                 <div class="card h-100" style={{ width: "18rem" }} >
-                                    <img src="public/Images/four.png" class="card-img-top object-fit-cover seven" alt="..." />
+                                    <img src="Images/four.png" class="card-img-top object-fit-cover seven" alt="..." />
                                     <div class="card-body">
                                         <h3 class="card-title four">
                                             Hair Conditioner Bhringraj &amp; Shikakai                                    </h3>
@@ -176,7 +176,7 @@ function product() {
                         <div className="">
                             <SwiperSlide>
                                 <div class="card h-100" style={{ width: "18rem" }} >
-                                    <img src="public/Images/five.png" class="card-img-top object-fit-cover seven" alt="..." />
+                                    <img src="Images/five.png" class="card-img-top object-fit-cover seven" alt="..." />
                                     <div class="card-body">
                                         <h3 class="card-title four">
 
@@ -210,7 +210,7 @@ function product() {
                         <div className="">
                             <SwiperSlide>
                                 <div class="card h-100" style={{ width: "18rem" }} >
-                                    <img src="public/Images/six.png" class="card-img-top object-fit-cover seven" alt="..." />
+                                    <img src="Images/six.png" class="card-img-top object-fit-cover seven" alt="..." />
                                     <div class="card-body">
                                         <h3 class="card-title four">
 
