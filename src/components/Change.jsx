@@ -5,18 +5,18 @@ function Change() {
                 <div className="container pb-3 mb-4">
                     <div>
                         <h6 className="red">The Science</h6>
-                        <h1 className="rice w-50">Every Ingredient.
+                        <h1 className="rice divine">Every Ingredient.
                             A Reason. A Result.</h1>
-                        <p className="three w-75">We don't hide behind proprietary blends. Here's exactly what's in our formulas and why it works on Indian skin.</p>
+                        <p className="three divine">We don't hide behind proprietary blends. Here's exactly what's in our formulas and why it works on Indian skin.</p>
                     </div>
                     <div>
                         <nav>
-                            <div className="nav  d-flex flex-nowrap overflow-auto border-bottom " style={{width:"75%"}} id="nav-tab" role="tablist">
-                                <button className="nav-link active five red fw-medium fs-6" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Niacinamide</button>
-                                <button className="nav-link five fw-medium red fs-6" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Vitamin C</button>
-                                <button className="nav-link five fw-medium  red fs-6" id="nav-contact-tab" data-bs-toggle="tab" data-bs-target="#nav-contact" type="button" role="tab" aria-controls="nav-contact" aria-selected="false">Salicylic Acid</button>
-                                <button className="nav-link five fw-medium red fs-6" id="nav-contact-tab" data-bs-toggle="tab" data-bs-target="#nav-hyaluronic" type="button" role="tab" aria-controls="nav-contact" aria-selected="false">Hyaluronic Acid</button>
-                                <button className="nav-link five fw-medium red fs-6" id="nav-contact-tab" data-bs-toggle="tab" data-bs-target="#nav-tea" type="button" role="tab" aria-controls="nav-contact" aria-selected="false">Green Tea</button>
+                            <div className="nav  d-flex flex-nowrap overflow-auto border-bottom " id="nav-tab" role="tablist">
+                                <button className="nav-link active five red fw-medium fs-6 text-nowrap" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Niacinamide</button>
+                                <button className="nav-link five fw-medium red fs-6 text-nowrap" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Vitamin C</button>
+                                <button className="nav-link five fw-medium  red fs-6 text-nowrap" id="nav-contact-tab" data-bs-toggle="tab" data-bs-target="#nav-contact" type="button" role="tab" aria-controls="nav-contact" aria-selected="false">Salicylic Acid</button>
+                                <button className="nav-link five fw-medium red fs-6 text-nowrap" id="nav-contact-tab" data-bs-toggle="tab" data-bs-target="#nav-hyaluronic" type="button" role="tab" aria-controls="nav-contact" aria-selected="false">Hyaluronic Acid</button>
+                                <button className="nav-link five fw-medium red fs-6 text-nowrap" id="nav-contact-tab" data-bs-toggle="tab" data-bs-target="#nav-tea" type="button" role="tab" aria-controls="nav-contact" aria-selected="false">Green Tea</button>
                             </div>
                         </nav>
                         <div className="tab-content mt-5" id="nav-tabContent">

@@ -10,11 +10,11 @@ function product() {
         <>
 
             <section className="container mt-5">
-                <div>
+                <div >
                     <h6 className="red"><small>Best Sellers</small></h6>
-                    <h1 className=" rice w-50">Ingredient-First Formulas.
+                    <h1 className=" rice divine">Ingredient-First Formulas.
                         Real Skin Results.</h1>
-                    <p className="three w-75">Every NIXIMIST product is built around one non-negotiable: active ingredients at concentrations that actually work.</p>
+                    <p className="three pe-md-5 me-md-5">Every NIXIMIST product is built around one non-negotiable: active ingredients at concentrations that actually work.</p>
                 </div>
                 <div className="">
                     <Swiper
@@ -43,7 +43,7 @@ function product() {
                     >
                         <div className="">
                             <SwiperSlide>
-                                <div class="card h-100" style={{ width: "18rem" }} >
+                                <div class="card mx-auto h-100" style={{ width: "18rem" }} >
                                     <img src="Images/one.png" class="card-img-top seven" alt="..." />
                                     <div class="card-body">
                                         <h3 class="card-title four">Brightening
@@ -75,7 +75,7 @@ function product() {
                         </div>
                         <div className="">
                             <SwiperSlide>
-                                <div class="card h-100" style={{ width: "18rem" }} >
+                                <div class="card mx-auto h-100" style={{ width: "18rem" }} >
                                     <img src="Images/two.png" class="card-img-top object-fit-cover seven" alt="..." />
                                     <div class="card-body">
                                         <h3 class="card-title four">Pore Purifying
@@ -109,7 +109,7 @@ function product() {
                         </div>
                         <div className="">
                             <SwiperSlide>
-                                <div class="card h-100" style={{ width: "18rem" }} >
+                                <div class="card mx-auto h-100" style={{ width: "18rem" }} >
                                     <img src="Images/three.png" class="card-img-top object-fit-cover seven" alt="..." />
                                     <div class="card-body">
                                         <h3 class="card-title four">Hydra-Barrier
@@ -142,7 +142,7 @@ function product() {
                         </div>
                         <div className="">
                             <SwiperSlide>
-                                <div class="card h-100" style={{ width: "18rem" }} >
+                                <div class="card  mx-auto h-100" style={{ width: "18rem" }} >
                                     <img src="Images/four.png" class="card-img-top object-fit-cover seven" alt="..." />
                                     <div class="card-body">
                                         <h3 class="card-title four">
@@ -175,7 +175,7 @@ function product() {
                         </div>
                         <div className="">
                             <SwiperSlide>
-                                <div class="card h-100" style={{ width: "18rem" }} >
+                                <div class="card mx-auto h-100" style={{ width: "18rem" }} >
                                     <img src="Images/five.png" class="card-img-top object-fit-cover seven" alt="..." />
                                     <div class="card-body">
                                         <h3 class="card-title four">
@@ -209,7 +209,7 @@ function product() {
                         </div>
                         <div className="">
                             <SwiperSlide>
-                                <div class="card h-100" style={{ width: "18rem" }} >
+                                <div class="card mx-auto h-100" style={{ width: "18rem" }} >
                                     <img src="Images/six.png" class="card-img-top object-fit-cover seven" alt="..." />
                                     <div class="card-body">
                                         <h3 class="card-title four">
