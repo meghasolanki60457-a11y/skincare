@@ -1,10 +1,20 @@
 import "./App.css";
+import { Routes, Route } from "react-router-dom";
+
 import Home from "./pages/Home";
-function app(){
+import Detail from "./components/Detail";
+
+function App() {
   return (
-    <>
-  <Home/>
-    </>
-  )
+    
+    <Routes>
+      {/* HOME ROUTE */}
+      <Route path="/" element={<Home />} />
+
+      {/* PRODUCT DETAIL */}
+      <Route path="/product/:id" element={<Detail />} />
+    </Routes>
+  );
 }
-export default app; 
+
+export default App;
